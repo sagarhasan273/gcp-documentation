@@ -69,4 +69,10 @@ In simple words:
 - Free VM with 5GB storage
 - Comes pre-installed with `gcloud` CLI
 
+🔍 Try this:
+```bash
+gcloud auth list
+gcloud config list
+```
+
 ---
